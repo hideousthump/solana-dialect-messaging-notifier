@@ -1,0 +1,3 @@
+[workspace]
+members = ["programs/solana-dialect-messaging-notifier"]
+resolver = "2"
